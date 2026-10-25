@@ -1,0 +1,24 @@
+{
+  "name": "magician336",
+  "owner": {
+    "name": "magician336",
+    "url": "https://github.com/magician336"
+  },
+  "description": "magician336's agent skills: review discipline for plans, implementations and architecture, plus design-philosophy references.",
+  "plugins": [
+    {
+      "name": "magician336-skills",
+      "source": "./",
+      "description": "Review skills (plan, implementation, architecture health) plus Ousterhout and Control Theory design references.",
+      "category": "engineering",
+      "keywords": [
+        "engineering",
+        "skills",
+        "code-review",
+        "plan-review",
+        "architecture",
+        "spec"
+      ]
+    }
+  ]
+}

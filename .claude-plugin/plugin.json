@@ -1,0 +1,29 @@
+{
+  "name": "magician336-skills",
+  "version": "1.0.0",
+  "description": "Review discipline for plans, implementations and architecture health, plus design-philosophy references.",
+  "author": {
+    "name": "magician336",
+    "url": "https://github.com/magician336"
+  },
+  "homepage": "https://github.com/magician336/skills",
+  "repository": "https://github.com/magician336/skills",
+  "license": "MIT",
+  "keywords": [
+    "engineering",
+    "skills",
+    "code-review",
+    "plan-review",
+    "architecture",
+    "spec",
+    "design"
+  ],
+  "skills": [
+    "./skills/plan-review",
+    "./skills/implementation-review",
+    "./skills/architecture-health-review",
+    "./skills/ousterhout-software-design",
+    "./skills/jinguantao-kongzhilun",
+    "./skills/writing-windows-scripts"
+  ]
+}
